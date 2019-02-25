@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_pending_closed" label="Pending closed on" language="en" table="x_311087_my_incide_my_incident_test_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_pending_closed</element>
+            <help/>
+            <hint/>
+            <label>Pending closed on</label>
+            <language>en</language>
+            <name>x_311087_my_incide_my_incident_test_table</name>
+            <plural>Pending closed ons</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-20 19:31:23</sys_created_on>
+            <sys_id>44212d784f732300a457b63ca310c710</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Pending closed on</sys_name>
+            <sys_package display_value="TCC Incidents" source="x_311087_my_incide">fd951d704f732300a457b63ca310c7cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TCC Incidents">fd951d704f732300a457b63ca310c7cc</sys_scope>
+            <sys_update_name>sys_documentation_x_311087_my_incide_my_incident_test_table_u_pending_closed_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-20 19:31:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

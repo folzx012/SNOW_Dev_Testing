@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_311087_my_incide_my_incident_test_table" version="2" view="admin">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="TCC Incidents - ADMIN" name="x_311087_my_incide_my_incident_test_table" related_list="NULL" sys_domain="global" view="6357697c4f732300a457b63ca310c77d">a3572d7c4f732300a457b63ca310c792</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>REL:b9edf0ca0a0a0b010035de2d6b579a03</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-20 19:58:41</sys_created_on>
+            <sys_id>ab572d7c4f732300a457b63ca310c792</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-20 19:58:41</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="TCC Incidents - ADMIN" name="x_311087_my_incide_my_incident_test_table" related_list="NULL" sys_domain="global" view="6357697c4f732300a457b63ca310c77d">a3572d7c4f732300a457b63ca310c792</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>x_311087_my_incide_my_incident_test_table.u_reference_7</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-20 19:58:41</sys_created_on>
+            <sys_id>af572d7c4f732300a457b63ca310c792</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-20 19:58:41</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>TCC Incidents - ADMIN</calculated_name>
+            <filter/>
+            <name>x_311087_my_incide_my_incident_test_table</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-20 19:58:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3572d7c4f732300a457b63ca310c792</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>My Incident Test Table - ADMIN</sys_name>
+            <sys_package display_value="TCC Incidents" source="x_311087_my_incide">fd951d704f732300a457b63ca310c7cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TCC Incidents">fd951d704f732300a457b63ca310c7cc</sys_scope>
+            <sys_update_name>sys_ui_related_x_311087_my_incide_my_incident_test_table_admin</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-20 19:58:41</sys_updated_on>
+            <sys_user/>
+            <view display_value="ADMIN" name="admin">6357697c4f732300a457b63ca310c77d</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

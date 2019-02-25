@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_311087_my_incide_my_incident_test_table" version="2" view="Mobile">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_311087_my_incide_my_incident_test_table" element="NULL" name="x_311087_my_incide_my_incident_test_table" parent="NULL" relationship="NULL" sys_domain="global" view="127c707365022300aadb05e0fb3edf35">b04915f04f732300a457b63ca310c7a4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-20 18:57:03</sys_created_on>
+            <sys_id>704915f04f732300a457b63ca310c7a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-20 18:57:03</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_category</element>
+            <list_id display_value="x_311087_my_incide_my_incident_test_table" element="NULL" name="x_311087_my_incide_my_incident_test_table" parent="NULL" relationship="NULL" sys_domain="global" view="127c707365022300aadb05e0fb3edf35">b04915f04f732300a457b63ca310c7a4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-20 18:57:03</sys_created_on>
+            <sys_id>784915f04f732300a457b63ca310c7a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-20 18:57:03</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_choice_4</element>
+            <list_id display_value="x_311087_my_incide_my_incident_test_table" element="NULL" name="x_311087_my_incide_my_incident_test_table" parent="NULL" relationship="NULL" sys_domain="global" view="127c707365022300aadb05e0fb3edf35">b04915f04f732300a457b63ca310c7a4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-20 18:57:03</sys_created_on>
+            <sys_id>f84915f04f732300a457b63ca310c7a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-20 18:57:03</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_choice_5</element>
+            <list_id display_value="x_311087_my_incide_my_incident_test_table" element="NULL" name="x_311087_my_incide_my_incident_test_table" parent="NULL" relationship="NULL" sys_domain="global" view="127c707365022300aadb05e0fb3edf35">b04915f04f732300a457b63ca310c7a4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-20 18:57:03</sys_created_on>
+            <sys_id>7c4915f04f732300a457b63ca310c7a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-20 18:57:03</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_reference_6</element>
+            <list_id display_value="x_311087_my_incide_my_incident_test_table" element="NULL" name="x_311087_my_incide_my_incident_test_table" parent="NULL" relationship="NULL" sys_domain="global" view="127c707365022300aadb05e0fb3edf35">b04915f04f732300a457b63ca310c7a4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-20 18:57:03</sys_created_on>
+            <sys_id>fc4915f04f732300a457b63ca310c7a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-20 18:57:03</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_subcategory</element>
+            <list_id display_value="x_311087_my_incide_my_incident_test_table" element="NULL" name="x_311087_my_incide_my_incident_test_table" parent="NULL" relationship="NULL" sys_domain="global" view="127c707365022300aadb05e0fb3edf35">b04915f04f732300a457b63ca310c7a4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-20 18:57:03</sys_created_on>
+            <sys_id>704915f04f732300a457b63ca310c7a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-20 18:57:03</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_type</element>
+            <list_id display_value="x_311087_my_incide_my_incident_test_table" element="NULL" name="x_311087_my_incide_my_incident_test_table" parent="NULL" relationship="NULL" sys_domain="global" view="127c707365022300aadb05e0fb3edf35">b04915f04f732300a457b63ca310c7a4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-20 18:57:03</sys_created_on>
+            <sys_id>f04915f04f732300a457b63ca310c7a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-20 18:57:03</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_311087_my_incide_my_incident_test_table</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-20 18:57:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b04915f04f732300a457b63ca310c7a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_311087_my_incide_my_incident_test_table</sys_name>
+            <sys_package display_value="TCC Incidents" source="x_311087_my_incide">fd951d704f732300a457b63ca310c7cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TCC Incidents">fd951d704f732300a457b63ca310c7cc</sys_scope>
+            <sys_update_name>sys_ui_list_x_311087_my_incide_my_incident_test_table_Mobile</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-20 18:57:03</sys_updated_on>
+            <sys_user/>
+            <view display_value="Mobile" name="Mobile">127c707365022300aadb05e0fb3edf35</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

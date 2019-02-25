@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_connection_type" table="x_311087_my_incide_my_incident_test_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_connection_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Office (wired)</label>
+            <language>en</language>
+            <name>x_311087_my_incide_my_incident_test_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-20 19:41:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a5361f84f732300a457b63ca310c7dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-20 19:41:07</sys_updated_on>
+            <value>office_wired</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_connection_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Office (wifi)</label>
+            <language>en</language>
+            <name>x_311087_my_incide_my_incident_test_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-20 19:41:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5a5361f84f732300a457b63ca310c7dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-20 19:41:07</sys_updated_on>
+            <value>office_wifi</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_connection_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WAH Kit</label>
+            <language>en</language>
+            <name>x_311087_my_incide_my_incident_test_table</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-20 19:41:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d65361f84f732300a457b63ca310c7de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-20 19:41:07</sys_updated_on>
+            <value>wah_kit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_connection_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VPN (wired)</label>
+            <language>en</language>
+            <name>x_311087_my_incide_my_incident_test_table</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-20 19:41:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>565361f84f732300a457b63ca310c7df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-20 19:41:07</sys_updated_on>
+            <value>vpn_wired</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_connection_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VPN (wifi)</label>
+            <language>en</language>
+            <name>x_311087_my_incide_my_incident_test_table</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-20 19:41:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d25361f84f732300a457b63ca310c7e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-20 19:41:07</sys_updated_on>
+            <value>vpn_wifi</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_connection_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Office extend (wired)</label>
+            <language>en</language>
+            <name>x_311087_my_incide_my_incident_test_table</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-20 19:41:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>525361f84f732300a457b63ca310c7e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-20 19:41:07</sys_updated_on>
+            <value>office_extend_wired</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_connection_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Office extend (wifi)</label>
+            <language>en</language>
+            <name>x_311087_my_incide_my_incident_test_table</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-20 19:41:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>de5361f84f732300a457b63ca310c7e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-20 19:41:07</sys_updated_on>
+            <value>office_extend_wifi</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_connection_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mobile (wifi)</label>
+            <language>en</language>
+            <name>x_311087_my_incide_my_incident_test_table</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-20 19:41:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e5361f84f732300a457b63ca310c7e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-20 19:41:07</sys_updated_on>
+            <value>mobile_wif</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_connection_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mobile (cellular)</label>
+            <language>en</language>
+            <name>x_311087_my_incide_my_incident_test_table</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-20 19:41:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>da5361f84f732300a457b63ca310c7e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-20 19:41:07</sys_updated_on>
+            <value>mobile_cellular</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_connection_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Off network (wifi)</label>
+            <language>en</language>
+            <name>x_311087_my_incide_my_incident_test_table</name>
+            <sequence>9</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-20 19:41:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5a5361f84f732300a457b63ca310c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-20 19:41:07</sys_updated_on>
+            <value>off_network_wifi</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_connection_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Off network (wired)</label>
+            <language>en</language>
+            <name>x_311087_my_incide_my_incident_test_table</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-20 19:41:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d65361f84f732300a457b63ca310c7e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-20 19:41:07</sys_updated_on>
+            <value>off_network_wired</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_connection_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>N/A</label>
+            <language>en</language>
+            <name>x_311087_my_incide_my_incident_test_table</name>
+            <sequence>11</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-20 19:41:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>565361f84f732300a457b63ca310c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-20 19:41:07</sys_updated_on>
+            <value>n/a</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_connection_type</element>
+            <name>x_311087_my_incide_my_incident_test_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-20 19:41:07</sys_created_on>
+            <sys_id>525361f84f732300a457b63ca310c7dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_connection_type</sys_name>
+            <sys_package display_value="TCC Incidents" source="x_311087_my_incide">fd951d704f732300a457b63ca310c7cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TCC Incidents">fd951d704f732300a457b63ca310c7cc</sys_scope>
+            <sys_update_name>sys_choice_x_311087_my_incide_my_incident_test_table_u_connection_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-20 19:41:07</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
